@@ -15,7 +15,7 @@
 - aiogram 2.25.1
 - sqlite3
 
-Використана API-лінійка **aiogram v2**, бо саме там присутній підхід `aiogram.dispatcher.filters.state`, який ви попросили використати. Це є в офіційній документації aiogram v2.25.1. citeturn370560search1turn370560search3
+Використана API-лінійка **aiogram v2**,
 
 ## Структура репозиторію
 
