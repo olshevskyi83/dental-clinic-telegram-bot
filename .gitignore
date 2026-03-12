@@ -11,3 +11,5 @@ clinic.db
 .idea/
 .vscode/
 .DS_Store
+tmp/
+*.log
